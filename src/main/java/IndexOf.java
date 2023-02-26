@@ -14,31 +14,9 @@ public class IndexOf {
        
        for(int i = 0; i < arr.length; i ++){
             if(arr[i] ==n){
-                return i;
-                
-            }
-            
+                return i; 
+            }  
        }
-
         return -1;
-       
-        
-
-
-
-       //int x = arr.indexOf(n);
-       
-       
-       
-        //    for(int item : n){
-
-        //     if(item ==n){
-        //         return 1;
-        //     }else{
-
-        
-       
-        //}
-        
     }
 }
